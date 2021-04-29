@@ -1,16 +1,36 @@
-### Hi there 👋
 
-<!--
-**thi174hcmus/thi174hcmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Currently
 
-Here are some ideas to get you started:
+I'm a Fullstack Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+
+<!--- `2008-11` -->
+__Ho Chi Minh University of Science__ BSc IT
+
+## Technical skills
+
+* Javascript (incl. Typescript, Reactjs, Vuejs, Nuxtjs)
+* HTML and CSS(incl. SASS, Bootstrap, Tailwindcss)
+* Nodejs, Expressjs
+* Golang
+* Git
+* Bash
+* Linux
+* Docker
+* AWS
+* Firebase
+* Database (incl. Mysql, Mongodb..)
+* Restful Api, Graphql
+
+## Areas of expertise
+
+* Software development
+
+## References
+
+Available on request.
+
+<!-- ### Footer
+
+Last updated: April 2021 -->
