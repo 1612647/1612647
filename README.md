@@ -27,6 +27,10 @@ __Ho Chi Minh University of Science__ BSc IT
 
 * Software development
 
+## Passions
+
+* Trading
+
 ## References
 
 Available on request.
