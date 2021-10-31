@@ -1,11 +1,11 @@
+# Hi dude
 
-## Currently
+<!-- ## Currently
 
 I'm a Fullstack Developer.
 
 ## Education
 
-<!--- `2008-11` -->
 __Ho Chi Minh University of Science__ BSc IT
 
 ## Technical skills
@@ -33,7 +33,7 @@ __Ho Chi Minh University of Science__ BSc IT
 
 ## References
 
-Available on request.
+Available on request. -->
 
 <!-- ### Footer
 
